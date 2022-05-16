@@ -1,0 +1,12 @@
+C:\Users\class\source\repos\Timer\Timer\bin\Debug\net5.0\Timer.deps.json
+C:\Users\class\source\repos\Timer\Timer\bin\Debug\net5.0\Timer.dll
+C:\Users\class\source\repos\Timer\Timer\bin\Debug\net5.0\Timer.pdb
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\Timer.csproj.AssemblyReference.cache
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\Timer.AssemblyInfoInputs.cache
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\Timer.AssemblyInfo.cs
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\Timer.csproj.CoreCompileInputs.cache
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\Timer.dll
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\refint\Timer.dll
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\Timer.pdb
+C:\Users\class\source\repos\Timer\Timer\obj\Debug\net5.0\ref\Timer.dll

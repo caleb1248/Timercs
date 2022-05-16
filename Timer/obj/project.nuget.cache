@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxrMpAYZJyaJ4eR/V82OAb4oqce9DDxFbwNWuw0ut76IDe6Vq4fPFw0MPltBzU18ktPgjf8BFFCWaZHgJY0Hqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\class\\source\\repos\\Timer\\Timer\\Timer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\class\\.nuget\\packages\\setinterval\\1.0.0\\setinterval.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
